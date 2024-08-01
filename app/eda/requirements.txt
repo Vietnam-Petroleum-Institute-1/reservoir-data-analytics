@@ -1,0 +1,6 @@
+pandas
+numpy
+plotly
+dataclasses
+dash
+dash_mantine_components

@@ -1,0 +1,20 @@
+.app-header {
+    height: 6vh;
+    min-height: 70px;
+    line-height: 70px;
+    max-height: 80px;
+    border-bottom: thin lightgrey solid;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.app-header .app-header--title {
+    font-size: 22px;
+    margin: 0 10px;
+}
+.logo{
+    width: 95px;
+    height: 65px;
+    margin: 0 10px;
+}

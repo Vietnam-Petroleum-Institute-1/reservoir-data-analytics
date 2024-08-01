@@ -1,0 +1,64 @@
+# local package
+-e .
+
+# external requirements
+tables
+click
+Sphinx
+coverage
+flake8
+tabulate
+python-dotenv>=0.5.1
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+# Machine Learning
+catboost
+statsmodels
+scikit-learn
+tensorflow
+xgboost
+lightgbm
+tf-nightly
+imodels
+scikit-optimize
+# for testing
+pytest
+pytest-cov
+pytest-xdist
+# for documentation
+sphinx-click
+sphinx-rtd-theme
+sphinx-autodoc-typehints
+sphinxcontrib-napoleon
+sphinxcontrib-apidoc
+# for linting
+flake8-docstrings
+flake8-import-order
+flake8-quotes
+flake8-comprehensions
+flake8-bugbear
+flake8-annotations
+# for formatting
+black
+isort
+# for packaging
+twine
+wheel
+# for versioning
+bump2version
+# for pre-commit
+pre-commit
+# for app 
+dataclasses
+dash
+dash_bootstrap_components
+dash_mantine_components
+#for fast eda
+pandas-profiling
+ydata-profiling
+dash-dangerously-set-inner-html
+
+
